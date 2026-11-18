@@ -98,7 +98,7 @@ self-evaluating-lesson-generator/
 
 ### 1. Application Interface
 
-![Application Interface](images/Screenshot 2026-11-18 at 9.50.04\342\200\257PM.png)
+![Application Interface](images/Screenshot 2026-11-18 at 9.50.04 PM.png)
 
 ### 2. Lesson Generation
 
