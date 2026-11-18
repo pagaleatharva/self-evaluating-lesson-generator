@@ -96,17 +96,25 @@ self-evaluating-lesson-generator/
 
 ## 📸 Application Screenshots
 
-### 1. Application Interface
+## 📸 Application Screenshots
 
-![Application Interface](Screenshot 2026-11-18 at 9.50.04 PM.png)
+### 1. Main Application Interface
+
+![Main Application Interface](images/Screenshot%202026-11-18%20at%209.50.04%E2%80%AFPM.png)
+
+[View Screenshot 1](https://github.com/pagaleatharva/self-evaluating-lesson-generator/blob/main/images/Screenshot%202026-11-18%20at%209.50.04%E2%80%AFPM.png)
 
 ### 2. Lesson Generation
 
-![Lesson Generation](images/Screenshot 2026-11-18 at 9.50.12\342\200\257PM.png)
+![Lesson Generation](images/Screenshot%202026-11-18%20at%209.50.12%E2%80%AFPM.png)
+
+[View Screenshot 2](https://github.com/pagaleatharva/self-evaluating-lesson-generator/blob/main/images/Screenshot%202026-11-18%20at%209.50.12%E2%80%AFPM.png)
 
 ### 3. Evaluation Results
 
-![Evaluation Results](images/Screenshot 2026-11-18 at 9.50.20\342\200\257PM.png)
+![Evaluation Results](images/Screenshot%202026-11-18%20at%209.50.20%E2%80%AFPM.png)
+
+[View Screenshot 3](https://github.com/pagaleatharva/self-evaluating-lesson-generator/blob/main/images/Screenshot%202026-11-18%20at%209.50.20%E2%80%AFPM.png)
 
 *Replace the image filenames above with your actual screenshot filenames if they are different.*
 
